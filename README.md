@@ -22,7 +22,8 @@ A Python-powered automation script to generate **3D piston models** in SolidWork
 
 ---
 ## 📸 Demo
-![Piston Demo](media/Demo_piston_3D.gif)
+![Piston Demo](media/Demo_Piston_3D.gif)
+piston demo video (media/Demo_video.mp4)
 
 ## 📝 How it Works 
 1. User manually inputs piston parameters (all in mm): bore, height, pin hole diameter, crown thickness, dome height, ring groove specs.
